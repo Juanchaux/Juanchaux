@@ -15,9 +15,12 @@
 
 
   <h2>📊 Mis Estadísticas:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanchaux&layout=compact&theme=radical" alt="Lenguajes más Usados">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanchaux&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanchaux&theme=dark) 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juanchaux&theme=dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanchaux&theme=dark)&nbsp;&nbsp;
+  </div>
 
   <h2>🌍 Conectemos:</h2>
   <a href="https://www.linkedin.com/in/coolcoder123/">
