@@ -1,25 +1,33 @@
-# Hi there, i'm Juan José 👋
+<div align="center">
+  <h1>Hi there, I'm Juan José 👋</h1>
 
-![Coding](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" alt="Coding">
 
-Soy un desarrollador apasionado por el desarrollo web y la inteligencia artificial. Bienvenido a mi perfil de GitHub.
+  <p>
+    Soy un desarrollador apasionado por el desarrollo web y la inteligencia artificial. Bienvenido a mi perfil de GitHub.
+  </p>
 
-## 🛠️ Tecnologías y Herramientas:
-- Lenguajes: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Bases de datos: MySQL, MongoDB
+  <h2>🛠️ Tecnologías y Herramientas:</h2>
+  <ul>
+    <li>Frameworks: ReactJs, Nextjs, .NET</li>
+    <li>Bases de datos: MySQL</li>
+  </ul>
 
-## 🚀 Proyectos Destacados:
-- [App de Chat en Tiempo Real](https://github.com/coolcoder123/chat-app): Una aplicación de chat desarrollada con Node.js y Socket.io.
-- [Clasificador de Imágenes](https://github.com/coolcoder123/image-classifier): Un clasificador de imágenes usando TensorFlow y Keras.
 
-## 📊 Mis Estadísticas:
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder123&layout=compact&theme=radical)
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=coolcoder123&show_icons=true&theme=radical)
+  <h2>📊 Mis Estadísticas:</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanchaux&layout=compact&theme=radical" alt="Lenguajes más Usados">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanchaux&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 
-## 🌍 Conectemos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/coolcoder123/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/coolcoder123)
+  <h2>🌍 Conectemos:</h2>
+  <a href="https://www.linkedin.com/in/coolcoder123/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/coolcoder123">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter">
+  </a>
 
-> "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
-
+  <blockquote>
+    "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
+  </blockquote>
+</div>
