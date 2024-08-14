@@ -1,6 +1,6 @@
-# Hola, soy CoolCoder123 👋
+# Hi there, i'm Juan José 👋
 
-![Coding](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+![Coding](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
 
 Soy un desarrollador apasionado por el desarrollo web y la inteligencia artificial. Bienvenido a mi perfil de GitHub.
 
