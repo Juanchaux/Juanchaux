@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy CoolCoder123 👋
 
-<!--
-**Juanchaux/Juanchaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Coding](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por el desarrollo web y la inteligencia artificial. Bienvenido a mi perfil de GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas:
+- Lenguajes: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Bases de datos: MySQL, MongoDB
+
+## 🚀 Proyectos Destacados:
+- [App de Chat en Tiempo Real](https://github.com/coolcoder123/chat-app): Una aplicación de chat desarrollada con Node.js y Socket.io.
+- [Clasificador de Imágenes](https://github.com/coolcoder123/image-classifier): Un clasificador de imágenes usando TensorFlow y Keras.
+
+## 📊 Mis Estadísticas:
+![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder123&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=coolcoder123&show_icons=true&theme=radical)
+
+## 🌍 Conectemos:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/coolcoder123/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/coolcoder123)
+
+> "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
+
