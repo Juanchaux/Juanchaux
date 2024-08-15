@@ -19,7 +19,7 @@ I invite you to take a look at my learning process!!!!!</h3>
   </div>
   <br>
   <br>
-  <h2>🌍 Contact me:</h2>
+  <h1>🌍 Contact me</h1>
   <a href="mailto:juanjochaux1102@gmail.com">
     <img src="https://img.shields.io/badge/Gmail%20-grey?style=for-the-badge&logo=gmail" />
   </a>
