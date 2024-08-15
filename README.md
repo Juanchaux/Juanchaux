@@ -10,6 +10,7 @@ I invite you to take a look at my learning process!!!!!</h3>
   <img src="https://skillicons.dev/icons?i=nextjs,javascript,react,dotnet,cs,mysql,tailwind,git,docker,figma&theme=dark" />
   <br>
   <br>
+  <br>
   <h1>📊 My Stats</h1>
   <div align="center">
   
