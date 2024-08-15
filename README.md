@@ -27,8 +27,6 @@ I invite you to take a look at my learning process!!!!!</h3>
   <a href="mailto:juanjochaux1102@gmail.com">
     <img src="https://img.shields.io/badge/Linkedin%20-grey?style=for-the-badge&logo=linkedin" />
   </a>
-
-  <blockquote>
-    "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
-  </blockquote>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9E4BFF&width=500&height=100&separator=%3C&lines=%22Programming+isn%E2%80%99t+about+what+you+know;%3Cit%E2%80%99s+about+what+you+can+figure+out.%22+%3C-+Chris+Pine" alt="Typing SVG" />
 </div>
