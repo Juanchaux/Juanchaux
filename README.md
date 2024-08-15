@@ -4,12 +4,7 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" alt="Coding">
 
   <h3>Hey, I hope you are doing well. Welcome to my profile. I'm Juan Jose Chaux Gallego, I'm a passionate student about development, new technologies and engineering. Currently I'm studying Computer And Systems Engineering. I have had experience working on web projects using Git, GitHub, HTML5, CSS3, JavaScript, React, .NET  and also AI management such as ChatGPT,  DALL-E, Hugging Face and GitHub Copilot.
-I invite you to take a look at my learning process!!!!!</h3>
-
-  <a href="mailto:juanjochaux1102@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20me%20-white?style=for-the-badge&logo=gmail" />
-  </a>
-  
+I invite you to take a look at my learning process!!!!!</h3>  
 
   <h2>🛠️ Technologies & tools:</h2>
   <img src="https://skillicons.dev/icons?i=nextjs,javascript,react,dotnet,cs,mysql,tailwind,git,docker,figma&theme=dark" />
@@ -24,11 +19,11 @@ I invite you to take a look at my learning process!!!!!</h3>
   </div>
 
   <h2>🌍 Conectemos:</h2>
-  <a href="https://www.linkedin.com/in/coolcoder123/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  <a href="mailto:juanjochaux1102@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20me%20-black?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://twitter.com/coolcoder123">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter">
+  <a href="mailto:juanjochaux1102@gmail.com">
+    <img src="https://img.shields.io/badge/Linkedin%20-black?style=for-the-badge&logo=linkedin" />
   </a>
 
   <blockquote>
