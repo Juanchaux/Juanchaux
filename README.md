@@ -6,11 +6,11 @@
   <h3>Hey, I hope you are doing well. Welcome to my profile. I'm Juan Jose Chaux Gallego, I'm a passionate student about development, new technologies and engineering. Currently I'm studying Computing And Systems Engineering. I have had experience working on web projects using Git, GitHub, HTML5, CSS3, JavaScript, React, .NET  and also AI management such as ChatGPT,  DALL-E, Hugging Face and GitHub Copilot.
 I invite you to take a look at my learning process!!!!!</h3>  
 
-  <h2>🛠️ Technologies & tools:</h2>
+  <h1>🛠️ Technologies & tools:</h1>
   <img src="https://skillicons.dev/icons?i=nextjs,javascript,react,dotnet,cs,mysql,tailwind,git,docker,figma&theme=dark" />
 
 
-  <h2>📊 My Stats:</h2>
+  <h1>📊 My Stats:</h1>
   <div align="center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanchaux&theme=midnight_purple) 
