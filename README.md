@@ -7,14 +7,14 @@
     Soy un desarrollador apasionado por el desarrollo web y la inteligencia artificial. Bienvenido a mi perfil de GitHub.
   </p>
 
-  <h2>🛠️ Tecnologías y Herramientas:</h2>
+  <h2>🛠️ Technologies & tools:</h2>
   <ul>
     <li>Frameworks: ReactJs, Nextjs, .NET</li>
     <li>Bases de datos: MySQL</li>
   </ul>
 
 
-  <h2>📊 Mis Estadísticas:</h2>
+  <h2>📊 My Stats:</h2>
   <div align="center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanchaux&theme=midnight_purple) 
