@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋,+I'm+Juan+Jose;" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=9E4BFF&width=700&height=90&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC+I'm+Juan+Jos%C3%A9.)](https://git.io/typing-svg)
 
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" alt="Coding">
 
