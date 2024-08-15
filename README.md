@@ -17,9 +17,9 @@
   <h2>📊 Mis Estadísticas:</h2>
   <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanchaux&theme=dark) 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juanchaux&theme=dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanchaux&theme=dark)&nbsp;&nbsp;
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanchaux&theme=midnight_purple) 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juanchaux&theme=midnight_purple)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanchaux&theme=midnight_purple)&nbsp;&nbsp;
   </div>
 
   <h2>🌍 Conectemos:</h2>
