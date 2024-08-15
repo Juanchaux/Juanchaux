@@ -18,9 +18,9 @@ I invite you to take a look at my learning process!!!!!</h3>
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanchaux&theme=midnight_purple)&nbsp;&nbsp;
   </div>
 
-  <h2>🌍 Conectemos:</h2>
+  <h2>🌍 Contact me:</h2>
   <a href="mailto:juanjochaux1102@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20me%20-grey?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail%20-grey?style=for-the-badge&logo=gmail" />
   </a>
   <a href="mailto:juanjochaux1102@gmail.com">
     <img src="https://img.shields.io/badge/Linkedin%20-grey?style=for-the-badge&logo=linkedin" />
