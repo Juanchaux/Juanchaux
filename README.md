@@ -1,5 +1,5 @@
 <div align="center">
-  img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi there!+👋,+I'm+Juan+Jose;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi there!+👋,+I'm+Juan+Jose;" />
 
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif" alt="Coding">
 
