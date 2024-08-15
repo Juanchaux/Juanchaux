@@ -8,7 +8,7 @@
   </p>
 
   <h2>🛠️ Technologies & tools:</h2>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,dotnet,mysql,tailwind,git,docker,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,javascript,react,dotnet,cs,mysql,tailwind,git,docker,figma&theme=dark" />
 
 
   <h2>📊 My Stats:</h2>
