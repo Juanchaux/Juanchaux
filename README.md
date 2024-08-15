@@ -8,10 +8,7 @@
   </p>
 
   <h2>🛠️ Technologies & tools:</h2>
-  <ul>
-    <li>Frameworks: ReactJs, Nextjs, .NET</li>
-    <li>Bases de datos: MySQL</li>
-  </ul>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,dotnet,mysql,tailwind,git,docker,figma&theme=dark" />
 
 
   <h2>📊 My Stats:</h2>
