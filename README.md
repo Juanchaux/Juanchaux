@@ -6,7 +6,10 @@
   <p>
     Soy un desarrollador apasionado por el desarrollo web y la inteligencia artificial. Bienvenido a mi perfil de GitHub.
   </p>
+
+  <a href="mailto:juanjochaux1102@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20me%20-white?style=for-the-badge&logo=gmail" />
+  </a>
   
 
   <h2>🛠️ Technologies & tools:</h2>
