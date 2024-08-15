@@ -6,7 +6,7 @@
   <p>
     Soy un desarrollador apasionado por el desarrollo web y la inteligencia artificial. Bienvenido a mi perfil de GitHub.
   </p>
-    <img src="https://img.shields.io/badge/Text%20me%20logo-white?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Contact%20me%20-white?style=for-the-badge&logo=gmail" />
   
 
   <h2>🛠️ Technologies & tools:</h2>
