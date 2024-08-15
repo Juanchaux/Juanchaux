@@ -3,7 +3,7 @@
 
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" alt="Coding">
 
-  <h3>Hey, I hope you are doing well. Welcome to my profile. I'm Juan Jose Chaux Gallego, I'm a passionate student about development, new technologies and engineering. Currently I'm studying Computing And Systems Engineering. I have had experience working on web projects using Git, GitHub, HTML5, CSS3, JavaScript, React, .NET  and also AI management such as ChatGPT,  DALL-E, Hugging Face and GitHub Copilot.
+  <h3>Hey, I hope you are doing well. Welcome to my profile. I'm Juan Jose Chaux Gallego, I'm a passionate student about development, new technologies and engineering. Currently I'm studying Computing And Systems Engineering. I have had experience working on web projects using Git, GitHub, HTML5, CSS3, JavaScript, React, Next, .NET, MySQL  and also AI management such as ChatGPT,  DALL-E, Hugging Face and GitHub Copilot.
 I invite you to take a look at my learning process!!!!!</h3>  
   <br>
   <h1>🛠️ Technologies & tools</h1>
