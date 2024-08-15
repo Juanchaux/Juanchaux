@@ -8,7 +8,7 @@ I invite you to take a look at my learning process!!!!!</h3>
   <br>
   <h1>🛠️ Technologies & tools</h1>
   <img src="https://skillicons.dev/icons?i=nextjs,javascript,react,dotnet,cs,mysql,tailwind,git,docker,figma&theme=dark" />
-
+  <br>
   <br>
   <h1>📊 My Stats</h1>
   <div align="center">
@@ -17,6 +17,7 @@ I invite you to take a look at my learning process!!!!!</h3>
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juanchaux&theme=midnight_purple)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanchaux&theme=midnight_purple)&nbsp;&nbsp;
   </div>
+  <br>
   <br>
   <h2>🌍 Contact me:</h2>
   <a href="mailto:juanjochaux1102@gmail.com">
