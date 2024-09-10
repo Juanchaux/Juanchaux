@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=9E4BFF&width=700&height=90&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC+I'm+Juan+Jos%C3%A9." alt="Typing SVG" />
 
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" alt="Coding">
+
 
   <h3>Hey, I hope you are doing well. Welcome to my profile. I'm Juan Jose Chaux Gallego, I'm a passionate student about development, new technologies and engineering. Currently I'm studying Computing And Systems Engineering. I have had experience working on web projects using Git, GitHub, HTML5, CSS3, JavaScript, React, Next, .NET, MySQL  and also AI management such as ChatGPT,  DALL-E, Hugging Face and GitHub Copilot.
 I invite you to take a look at my learning process!!!!!</h3>  
